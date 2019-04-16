@@ -1,0 +1,24 @@
+{
+"products" : [
+{"id":1,"name":"Sandpiper, spotted wood","category":"Indigo"},
+{"id":2,"name":"Cape starling","category":"Orange"},
+{"id":3,"name":"House crow","category":"Aquamarine"},
+{"id":4,"name":"Heron, giant","category":"Maroon"},
+{"id":5,"name":"Scaly-breasted lorikeet","category":"Violet"},
+{"id":6,"name":"Squirrel, indian giant","category":"Khaki"},
+{"id":7,"name":"Corella, long-billed","category":"Turquoise"},
+{"id":8,"name":"Possum, ring-tailed","category":"Crimson"},
+{"id":9,"name":"Northern elephant seal","category":"Blue"},
+{"id":10,"name":"Dolphin, bottle-nose","category":"Aquamarine"},
+{"id":11,"name":"Alligator, american","category":"Blue"},
+{"id":12,"name":"Colobus, white-mantled","category":"Khaki"},
+{"id":13,"name":"Woodrat (unidentified)","category":"Purple"},
+{"id":14,"name":"Seal, southern elephant","category":"Crimson"},
+{"id":15,"name":"Blue waxbill","category":"Green"},
+{"id":16,"name":"Monkey, vervet","category":"Yellow"},
+{"id":17,"name":"Egyptian viper","category":"Indigo"},
+{"id":18,"name":"Cape fox","category":"Goldenrod"},
+{"id":19,"name":"Darter, african","category":"Maroon"},
+{"id":20,"name":"Rattlesnake, eastern diamondback","category":"Pink"}
+]
+}
